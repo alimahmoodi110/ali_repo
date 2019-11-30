@@ -1,4 +1,10 @@
+@font-face
+{
+    font-family: BHoma;
+    src: url(../font/BHoma.ttf);
+}
 p
 {
     color: red;
+    font-family: BHoma;
 }
