@@ -1,7 +1,16 @@
+@font-face
+{
+    font-family: BHoma;
+    src: url(../font/XB\ TitreIt.ttf);
+}
 p
 {
     color: red;
+<<<<<<< HEAD
 }
 h2{
     color: blue;
+=======
+    font-family: BHoma;
+>>>>>>> master
 }
